@@ -13,7 +13,7 @@ Installation
 Clone the repository:
 
 ```
-git clone https://github.com/facefusion/facefusion-docker.git
+git clone https://github.com/diansadulloh/facefusion-docker.git
 ```
 
 Run the `CPU` container:
